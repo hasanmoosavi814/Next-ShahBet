@@ -21,7 +21,7 @@ Explore leagues, match fixtures, live stats, odds, and more – all in one place
 
 ## 🧱 Tech Stack
 
-- **Framework**: [Next.js 14 (App Router)](https://nextjs.org)
+- **Framework**: [Next.js 15 (App Router)](https://nextjs.org)
 - **Styling**: [TailwindCSS](https://tailwindcss.com)
 - **State/API**: [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
@@ -31,7 +31,11 @@ Explore leagues, match fixtures, live stats, odds, and more – all in one place
 ---
 
 ## 📁 Project Structure
+
 # Next---FootbalBet
+
 # Next---FootbalBet
+
 # Next-ShahBet
+
 # Next-ShahBet
